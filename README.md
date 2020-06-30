@@ -68,14 +68,12 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## Latest (10) items
+## Latest dashboards
 
 > For the full list please access the links
 
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Index hosted by AppSeed
 - [Flask Admin Dashboards](https://github.com/app-generator/flask-admin-dashboards) - Index hosted on Github
-- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index hosted by AppSeed
-- [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index hosted on Github
 
 <br />
 
