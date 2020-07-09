@@ -72,12 +72,12 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > For the full list please access the links
 
-- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Index hosted by AppSeed
-- [Flask Admin Dashboards](https://github.com/app-generator/flask-admin-dashboards) - Index hosted on Github
+- [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - Index hosted by AppSeed
+- [Flask Dashboards](https://github.com/app-generator/flask-admin-dashboards) - Index hosted on Github
 
 <br />
 
-## [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+## [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -91,8 +91,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Flask Dashboard Black](https://flask-dashboard-black.appseed.us/) - LIVE demo
-- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Product page
+- [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black) - Product page
+- [Flask Dashboard Black Demo](https://flask-dashboard-black.appseed.us/) - LIVE app
 - [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
 
 <br />
@@ -101,7 +101,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+## [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -115,8 +115,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Flask Dashboard Argon](https://flask-dashboard-argon.appseed.us/) - LIVE demo
-- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
+- [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
+- [Flask Dashboard Argon Demo](https://flask-dashboard-argon.appseed.us/) - LIVE app
 - [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
 
 <br />
@@ -125,7 +125,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
+## [Flask Dashboard - DattaAble Design](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -139,8 +139,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Flask Dashboard DattaAble](https://flask-dashboard-dattaable.appseed.us/) - LIVE Demo
-- [Flask Dashboard DattaAble](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) - Product page
+- [Flask Dashboard - DattaAble Design](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) - Product page
+- [Flask Dashboard DattaAble Demo](https://flask-dashboard-dattaable.appseed.us/) - LIVE app
 - [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
 
 <br />
@@ -149,7 +149,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+## [Flask Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -163,9 +163,9 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Flask Atlantis Dark](https://flask-dashboard-atlantis-dark.appseed.us/) - LIVE Demo
-- [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Product page
-- [Flask Atlantis Dark](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
+- [Flask Atlantis Dark Demo](https://flask-dashboard-atlantis-dark.appseed.us/) - LIVE App
+- [Flask Dashboard -Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - Product page
+- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
 
 <br />
 
@@ -173,7 +173,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+## [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -187,9 +187,9 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Flask Dashboard CoreUI](https://flask-dashboard-coreui.appseed.us/) - LIVE Demo
-- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Product page
-- [Flask Dashboard CoreUI](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
+- [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Product page
+- [Flask Dashboard CoreUI Demo](https://flask-dashboard-coreui.appseed.us/) - LIVE App
+- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Codebase Documentation
 
 <br />
 
