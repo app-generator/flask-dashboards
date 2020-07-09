@@ -1,4 +1,4 @@
-# [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask)
+# [Flask Dashboards](https://appseed.us/admin-dashboards/flask)
 
 > [Flask Admin Panels](https://appseed.us/admin-dashboards/flask) coded / generated in [Flask](https://palletsprojects.com/p/flask/) by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
 
@@ -16,7 +16,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
+## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
 
 <br />
 
@@ -198,4 +198,4 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 <br />
 
 ---
-[Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboards](https://appseed.us/admin-dashboards/flask) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
