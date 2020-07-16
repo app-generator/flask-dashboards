@@ -16,6 +16,21 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
+## Latest product - [Flask AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte?ref=gh-ad-dash)
+
+**AdminLTE** Dashboard, the well-known design provided by ColorLib is now available in Django. The app is released as a free product, and based on the permissive license (MIT), can be used for unlimited hobby and commercial projects.
+
+> Links
+
+- [Flask Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Product page
+- [Flask Dashboard AdminLTE Demo](https://flask-dashboard-adminlte.appseed.us/) - LIVE App
+
+<br />
+
+![Flask Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-adminlte/master/media/flask-dashboard-adminlte-screen.png)
+
+<br />
+
 ## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
 
 <br />
