@@ -1,33 +1,69 @@
 # [Flask Dashboards](https://appseed.us/admin-dashboards/flask)
 
-> [Flask Admin Panels](https://appseed.us/admin-dashboards/flask) coded / generated in [Flask](https://palletsprojects.com/p/flask/) by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
+> Flask Admin Panels coded/generated in [Flask](https://palletsprojects.com/p/flask/) by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
 
 <br />
 
 ## What is a [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
+A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.
 
 <br />
 
 ## [Flask](https://palletsprojects.com/p/flask/)
 
-**Flask** is a micro web framework written in Python. **Flask** is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. 
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. Classified as a microframework, Flask is written in Python and it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+
+Compared to his older brother Django, Flask provides a lightweight codebase and more freedom to the developer. This might be a good thing because you have more freedom in terms of app design and structure but in the same time, this freedom might inject problems when your application becomes complex.
 
 <br />
 
-## Latest product - [Flask AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte?ref=gh-ad-dash)
+> Set up PC for Flask
 
-**AdminLTE** Dashboard, the well-known design provided by ColorLib is now available in Django. The app is released as a free product, and based on the permissive license (MIT), can be used for unlimited hobby and commercial projects.
+Being a Python framework, Flask requires Python to run and expose his magic. Flask is compatible with Python2, Python3 (the recommended version).
+
+**Install Python** - To get started working with Python3, you’ll need to have access to the Python interpreter (the console, and related tools and libraries). We can accomplish this in several ways:
+
+- Download the installer from the official [download](https://www.python.org/downloads/) page.
+- Use a package manager like yum, apt on Linux systems
+- Homebrew for MacOS users.
+- Build Python from sources, a method used by super-geeks.
+
+<br />
+
+> Install Flask - via PIP (the standard package manager for Python)
+
+```bash
+$ pip install Flask
+```
+
+During Flask installation, other modules will be installed under-the-hood:
+
+- **Werkzeug** implements WSGI, the standard Python interface between applications and servers.
+- **Jinja** is a template language that renders the pages your application serves.
+- **MarkupSafe** comes with Jinja. It escapes untrusted input when rendering templates to avoid injection attacks.
+- **ItsDangerous** securely signs data to ensure its integrity. This is used to protect Flask’s session cookie.
+- **Click** is a framework for writing command line applications. It provides the flask command and allows adding custom management commands.
+
+> More Flask Links
+
+- [Flask](https://palletsprojects.com/p/flask/) - the official page
+- [What is Flask](https://docs.appseed.us/what-is/flask/) - a comprehensive resource about this amazing Framework
+
+<br />
+
+## Latest product - [Flask Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh)
+
+[Argon](https://appseed.us/ui-kit/argon-design-system?ref=gh) Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 > Links
 
-- [Flask Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Product page
-- [Flask Dashboard AdminLTE Demo](https://flask-dashboard-adminlte.appseed.us/) - LIVE App
+- [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
+- [Flask Dashboard Argon Demo](https://flask-dashboard-argon.appseed.us/login) - LIVE app
 
 <br />
 
-![Flask Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-adminlte/master/media/flask-dashboard-adminlte-screen.png)
+![Flask Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
 
 <br />
 
