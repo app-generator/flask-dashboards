@@ -80,6 +80,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 [Flask Dashboard - Shards Design](https://appseed.us/admin-dashboards/flask-dashboard-shards) | MIT | [LIVE demo](https://flask-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-shards)| -
 [Flask Dashboard - Sleek Design](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | -
 [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
+[Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) | MIT | [LIVE demo](https://flask-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sb-admin) | -
 
 <br />
 
@@ -92,17 +93,39 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
+## [Flask Dashboard - Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin)
+
+SB Admin - A Bootstrap 4 admin template with minimal custom styling and an advanced development environment - a perfect starter template for building web apps, dashboards, and admin panels. SB Admin is a free, open source, MIT licensed Bootstrap admin template. This template uses the default Bootstrap 4 styles along with a variety of plugins to create a powerful framework for creating admin panels, web apps, or dashboard UI's for your next project.
+
+> App Features
+
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+![Boierplate Code Flask Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-sb-admin/master/media/flask-dashboard-sb-admin-screen.png)
+
+<br />
+
 ## [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+
+> App Features
 
 - UI Kit: **Black Dashboard** (Free version) provided by **Creative-Tim**
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Session-Based authentication (via **flask_login**)
-- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
-- **MIT License**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
@@ -118,15 +141,17 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 ## [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
+
+> App Features
 
 - UI Kit: **Argon Dashboard** (Free version) provided by **Creative-Tim**
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Session-Based authentication (via **flask_login**)
-- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
-- **MIT License**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
@@ -142,15 +167,17 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 ## [Flask Dashboard - DattaAble Design](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+Datta Able Free Dashboard is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer centric code. Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
+
+> App Features
 
 - UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Session-Based authentication (via **flask_login**)
-- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
-- **MIT License**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
@@ -166,15 +193,17 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 ## [Flask Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+Atlantis Lite Dark is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
+
+> App Features
 
 - UI Kit: **Atlantis Dark Lite** (Free version) provided by **ThemeKita**
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Session-Based authentication (via **flask_login**)
-- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
-- **MIT License**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
@@ -190,15 +219,18 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 ## [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
+CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
+CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop.
+
+> App Features
 
 - UI Kit: **CoreUI Dashboard** (Free Version) provided by **CoreUI** agency
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Session-Based authentication (via **flask_login**)
-- Deployment scripts: Docker, Gunicorn/Nginx, Heroku
-- **MIT License**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
