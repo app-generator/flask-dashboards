@@ -52,18 +52,16 @@ During Flask installation, other modules will be installed under-the-hood:
 
 <br />
 
-## Latest product - [Flask Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon?ref=gh)
+## Latest product - [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt)
 
-[Argon](https://appseed.us/ui-kit/argon-design-system?ref=gh) Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
 
-> Links
-
-- [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
-- [Flask Dashboard Argon Demo](https://flask-dashboard-argon.appseed.us/login) - LIVE app
+- [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page
+- [Flask Dashboard Volt - Demo](https://flask-dashboard-volt.appseed.us/) - LIVE deployment
 
 <br />
 
-![Flask Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-boilerplate-dashboard-argon/master/media/flask-boilerplate-dashboard-argon-screen.png)
+![Flask Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-intro.gif)
 
 <br />
 
