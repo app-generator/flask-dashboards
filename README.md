@@ -16,64 +16,38 @@ Flask is a lightweight WSGI web application framework. It is designed to make ge
 
 Compared to his older brother Django, Flask provides a lightweight codebase and more freedom to the developer. This might be a good thing because you have more freedom in terms of app design and structure but in the same time, this freedom might inject problems when your application becomes complex.
 
-<br />
-
-> Set up PC for Flask
-
-Being a Python framework, Flask requires Python to run and expose his magic. Flask is compatible with Python2, Python3 (the recommended version).
-
-**Install Python** - To get started working with Python3, you’ll need to have access to the Python interpreter (the console, and related tools and libraries). We can accomplish this in several ways:
-
-- Download the installer from the official [download](https://www.python.org/downloads/) page.
-- Use a package manager like yum, apt on Linux systems
-- Homebrew for MacOS users.
-- Build Python from sources, a method used by super-geeks.
-
-<br />
-
 > Install Flask - via PIP (the standard package manager for Python)
 
 ```bash
 $ pip install Flask
 ```
+<br />
 
-During Flask installation, other modules will be installed under-the-hood:
+## Latest product - [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable?ref=gh)
 
-- **Werkzeug** implements WSGI, the standard Python interface between applications and servers.
-- **Jinja** is a template language that renders the pages your application serves.
-- **MarkupSafe** comes with Jinja. It escapes untrusted input when rendering templates to avoid injection attacks.
-- **ItsDangerous** securely signs data to ensure its integrity. This is used to protect Flask’s session cookie.
-- **Click** is a framework for writing command line applications. It provides the flask command and allows adding custom management commands.
+Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
 
-> More Flask Links
-
-- [Flask](https://palletsprojects.com/p/flask/) - the official page
-- [What is Flask](https://docs.appseed.us/what-is/flask/) - a comprehensive resource about this amazing Framework
+- [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable?ref=gh) - Product page
+- [Flask Datta Able Demo](https://flask-dashboard-dattaable.appseed.us/) - LIVE deployment
+- **[Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro?ref=gh)** - Premium Version
 
 <br />
 
-## Latest product - [Flask Material Lite](https://appseed.us/admin-dashboards/flask-dashboard-material-lite)
-
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of MaterialPro Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **MaterialPro Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
-
-- [Flask Material Lite](https://appseed.us/admin-dashboards/flask-dashboard-material-lite) - product page
-- [Flask Material Lite - Demo](https://flask-dashboard-material-lite.appseed.us/) - LIVE deployment
+![Flask Datta Able - Open-Source Admin Panel Coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable/master/media/flask-dashboard-dattaable-intro.gif)
 
 <br />
 
-![Flask Material Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-lite/master/media/flask-dashboard-material-lite-intro.gif)
+### Want more? Go PRO! 
+
+> Premium UI Kits, LIFETIME updates and 24/7 LIVE Support provided by experts via [Discord](https://discord.gg/fZC6hup).
+
+| [Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
+| --- | --- | --- |
+| [![Flask Datta Able PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-pro/master/media/flask-dashboard-dattaable-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
 <br />
 
 ## [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - sorted by UI Kit provider
-
-<br />
-
-> PRO Flask Admin Dashboard - coded on top of Premium UI Kits and supported 24/7 LIVE via [Discord](https://discord.gg/fZC6hup)
-
-| [Flask DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
-| --- | --- | --- |
-| [![Flask DattaAble PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-pro/master/media/flask-dashboard-dattaable-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
 <br />
 
