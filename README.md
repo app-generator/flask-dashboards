@@ -89,7 +89,7 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 [Flask Dashboard - Sleek Design](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | -
 [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
 [Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) | MIT | [LIVE demo](https://flask-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sb-admin) | -
-[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) | MIT | [LIVE demo](https://flask-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | [PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)
+[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) | MIT | [LIVE demo](https://flask-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | **[PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)**
 
 <br />
 
