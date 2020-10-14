@@ -10,7 +10,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Flask](https://palletsprojects.com/p/flask/)
+## [What is Flask](https://docs.appseed.us/what-is/flask/)
 
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. Classified as a microframework, Flask is written in Python and it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
@@ -115,6 +115,7 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 [Flask Dashboard - Sleek Design](https://appseed.us/admin-dashboards/flask-dashboard-sleek) | MIT | [LIVE demo](https://flask-dashboard-sleek.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sleek) | -
 [Flask iDashboard Free](https://appseed.us/admin-dashboards/flask-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://flask-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/flask-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/flask-idashboard-pro)**
 [Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) | MIT | [LIVE demo](https://flask-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-sb-admin) | -
+[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) | MIT | [LIVE demo](https://flask-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/flask-dashboard-volt) | [PRO Version](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)
 
 <br />
 
