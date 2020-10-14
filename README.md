@@ -102,7 +102,7 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 
 <br />
 
-## [Flask Dashboard - Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin)
+## [Flask Dashboard Sb Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin)
 
 SB Admin - A Bootstrap 4 admin template with minimal custom styling and an advanced development environment - a perfect starter template for building web apps, dashboards, and admin panels. SB Admin is a free, open source, MIT licensed Bootstrap admin template. This template uses the default Bootstrap 4 styles along with a variety of plugins to create a powerful framework for creating admin panels, web apps, or dashboard UI's for your next project.
 
@@ -121,7 +121,7 @@ SB Admin - A Bootstrap 4 admin template with minimal custom styling and an advan
 
 <br />
 
-## [Flask Dashboard - Black Design](https://appseed.us/admin-dashboards/flask-dashboard-black)
+## [Flask Black Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
 Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
@@ -148,7 +148,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-## [Flask Dashboard - Argon Design](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+## [Flask Argon Dashboard](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
 
@@ -174,7 +174,7 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 
 <br />
 
-## [Flask Dashboard - DattaAble Design](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
+## [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable)
 
 Datta Able Free Dashboard is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer centric code. Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
 
@@ -200,7 +200,7 @@ Datta Able Free Dashboard is the most stylised Bootstrap 4 Lite Admin Template, 
 
 <br />
 
-## [Flask Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
+## [Flask Atlantis Lite](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark)
 
 Atlantis Lite Dark is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
@@ -226,7 +226,7 @@ Atlantis Lite Dark is a free bootstrap 4 admin dashboard that is beautifully and
 
 <br />
 
-## [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+## [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
 CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
 CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop.
