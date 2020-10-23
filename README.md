@@ -23,17 +23,19 @@ $ pip install Flask
 ```
 <br />
 
-## Latest product - [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable?ref=gh)
+## Latest product - [Flask Black Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black?ref=gh)
+---
 
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
+Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
-- [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable?ref=gh) - Product page
-- [Flask Datta Able Demo](https://flask-dashboard-dattaable.appseed.us/) - LIVE deployment
-- **[Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro?ref=gh)** - Premium Version
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - product page
+- [Flask Dashboard Black - Demo](https://flask-dashboard-black.appseed.us/) - LIVE App deployment
+- **[Flask Black Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro?ref=gh)** - Premium Version
 
 <br />
 
-![Flask Datta Able - Open-Source Admin Panel Coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable/master/media/flask-dashboard-dattaable-intro.gif)
+![Flask Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/admin-dashboards/flask-black-dashboard/master/media/flask-black-dashboard-intro.gif)
 
 <br />
 
