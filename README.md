@@ -1,6 +1,6 @@
 # [Flask Dashboards](https://appseed.us/admin-dashboards/flask)
 
-> Flask Admin Panels coded/generated in [Flask](https://palletsprojects.com/p/flask/) by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
+> Flask Admin Panels coded/generated in [Flask](https://palletsprojects.com/p/flask/) by **AppSeed - [App Generator](https://appseed.us/app-generator)**.
 
 <br />
 
@@ -23,7 +23,7 @@ $ pip install Flask
 ```
 <br />
 
-## New - [Flask Datta Able](https://appseed.us/product/flask-soft-ui-dashboard)
+## New - [Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard)
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Soft UI Dashboard** (free version), a modern Bootstrap 5 design. Designed for those who like bold elements and beautiful websites, Soft UI Dashboard is ready to help you create stunning websites and webapps. Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.
 
