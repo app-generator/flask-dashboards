@@ -23,16 +23,16 @@ $ pip install Flask
 ```
 <br />
 
-## Latest product - [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable?ref=gh)
+## New - [Flask Datta Able](https://appseed.us/product/flask-soft-ui-dashboard)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Soft UI Dashboard** (free version), a modern Bootstrap 5 design. Designed for those who like bold elements and beautiful websites, Soft UI Dashboard is ready to help you create stunning websites and webapps. Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.
 
-- [Flask Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable?ref=gh) - Product page
-- **[Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro?ref=gh)** - Premium Version
+- [Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - product page
+- [Flask Soft UI Dashboard](https://flask-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
-![Flask Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable/flask-dashboard-dattaable-intro.gif)
+![Soft UI Dashboard - Flask Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-soft-ui-dashboard/master/media/flask-soft-ui-dashboard-screen.png)
 
 <br />
 
