@@ -78,7 +78,7 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project.
 
 - 👉 [Gradient Able Flask](https://appseed.us/product/gradient-able/flask/) - Product page
-- 👉 [Gradient Able Flask](https://gradient-datta-able.appseed-srv1.com) - LIVE Deployment
+- 👉 [Gradient Able Flask](https://flask-gradient-able.appseed-srv1.com) - LIVE Deployment
 - 🚀 Built with [Gradient Able Generator](https://appseed.us/generator/gradient-able/) (free service)
 
 <br />
