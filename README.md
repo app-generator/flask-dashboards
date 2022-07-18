@@ -89,4 +89,4 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 <br />
 
 ---
-[Flask Dashboards](https://appseed.us/admin-dashboards/flask) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboards](https://appseed.us/admin-dashboards/flask) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
