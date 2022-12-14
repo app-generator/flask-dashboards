@@ -2,7 +2,13 @@
 
 A curated list with **[Flask Dashboards](https://appseed.us/admin-dashboards/flask/)** generated and actively supported by AppSeed. For newcomers, **[Flask](https://appseed.us/admin-dashboards/flask/)** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.  
 
-<br /> 
+<br />
+
+## 🚀 [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
+
+[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+
+<br />
 
 ## What is **[Flask](https://appseed.us/admin-dashboards/flask/)**
 
