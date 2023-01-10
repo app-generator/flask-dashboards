@@ -46,11 +46,9 @@ The product is designed to deliver the best possible user experience with highly
 
 > Features 
 
-- ✅ `Up-to-date dependencies`
 - ✅ `Database`: `SQLite`, MySql
   - Silent fallback to `SQLite`  
 - ✅ `DB Tools`: SQLAlchemy ORM, `Flask-Migrate`
-- ✅ `Authentication`, Session Based
 - ✅ `Docker`, Page Compression via `Flask-Minify`
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render` - [See Video](https://youtu.be/rp-yuOJeNEs)
