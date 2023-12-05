@@ -4,6 +4,14 @@ A curated list with **[Flask Dashboards](https://appseed.us/admin-dashboards/fla
 
 A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.  
 
+---
+
+## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
+
+> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
+ 
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
+
 <br />
 
 ## [What is Flask](https://docs.appseed.us/content/what-is/flask/)
