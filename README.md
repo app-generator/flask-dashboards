@@ -123,9 +123,9 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 <br />
 
-## [Volt Dashboard Flask](https://flask-volt-dashboard.appseed-srv1.com/)
+## [Volt Dashboard Flask](https://appseed.us/product/volt-dashboard/flask/)
 
-**[Volt Dashboard](https://appseed.us/generator/volt-dashboard/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
+**Volt Dashboard** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
 
 | Free Version                          | [PRO Version](https://appseed.us/product/volt-dashboard-pro/flask/)          | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
