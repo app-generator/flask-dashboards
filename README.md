@@ -77,7 +77,7 @@ The product is designed to deliver the best possible user experience with highly
 | ---------------------------------         | ---------------------------------                                     | ---------------------------------  |
 | ✓ [LIVE Demo](https://flask-berry.onrender.com)  | 🚀 [LIVE Demo](https://flask-berry-pro.onrender.com) `PRO` | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |
   
-![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
+![Flask Berry Bootstrap 5 - Free starter crafted by AppSeed.](https://github.com/app-generator/flask-dashboards/assets/51070104/a1a36943-2b46-45a7-afed-c20af6913c4f)
 
 <br />
 
