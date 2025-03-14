@@ -1,10 +1,6 @@
 # [Flask Dashboards](https://app-generator.dev/admin-dashboards/flask/)
 
-A curated list with **[Flask Dashboards](https://app-generator.dev/admin-dashboards/flask/)** generated and actively supported by AppSeed. For newcomers, **[Flask](https://app-generator.dev/docs/technologies/flask/index.html)** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
-
-> 👉 Build your starter with **[Flask App Generator](https://app-generator.dev/tools/flask-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
-
-![Flask App Generator](https://github.com/user-attachments/assets/e287836f-4d1c-44cd-a46a-fd1475debab6)
+A curated list with **[Flask Dashboards](https://app-generator.dev/admin-dashboards/flask/)** generated and actively supported by **[App-Generator](https://app-generator.dev/)** service. For newcomers, **[Flask](https://app-generator.dev/docs/technologies/flask/index.html)** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
 
 <br />
 
