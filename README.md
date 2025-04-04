@@ -48,6 +48,8 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 - Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
 - **Docker**
 - **CI/CD Integration** with Render 
+
+ ![Flask Rocket - Open-Source Flask Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
  
 <br />
 
